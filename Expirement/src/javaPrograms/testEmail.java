@@ -8,9 +8,7 @@ public class testEmail {
 		int tt = to.indexOf(",");
 		System.out.println(tt);
 		/*String temp[] = null;
-		if(to.indexOf(",")>0)
-		{
-			temp = to.split(",");
+		
 
 		}
 		else
